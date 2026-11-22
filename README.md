@@ -1,18 +1,18 @@
 ## Hello there 👋 I'm Arjun
 
+# I am Full Stack Web Developer(MERN) and an Asset Designer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<!--
-**immortaldotjar/immortaldotjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I Design and create things which are playful and creative helping me to achieve my flow state 
 
-Here are some ideas to get you started:
+Besides all that I'm currently Advancing my knowledge in building Games and currently Working on Ravix.io (A web based multiplayer FPS game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Stack:
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)](https://skillicons.dev)
+
+## Languages Known other than English :
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,cs)](https://skillicons.dev)
+
+## I have knowledge about :
+[![My Skills](https://skillicons.dev/icons?i=arch,mysql,postgre,firebase,flutter,figma,supabase,git,github,npm,postman,godot,blender)](https://skillicons.dev)
+
