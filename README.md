@@ -14,5 +14,5 @@ Besides all that I'm currently Advancing my knowledge in building Games and curr
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,cs)](https://skillicons.dev)
 
 ## I have knowledge about tools I use :
-[![My Skills](https://skillicons.dev/icons?i=arch,mysql,postgres,firebase,,flutter,figma,supabase,git,github,npm,postman,vscode,eclipse,godot,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,mysql,postgres,firebase,flutter,figma,supabase,git,github,npm,postman,vscode,eclipse,godot,blender)](https://skillicons.dev)
 
