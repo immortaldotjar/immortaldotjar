@@ -13,6 +13,6 @@ Besides all that I'm currently Advancing my knowledge in building Games and curr
 ## Languages Known other than English :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,cs)](https://skillicons.dev)
 
-## I have knowledge about tools I use :
+## Knowledge about tools I use :
 [![My Skills](https://skillicons.dev/icons?i=arch,mysql,postgres,firebase,figma,supabase,git,github,npm,postman,vscode,eclipse,godot,blender)](https://skillicons.dev)
 
